@@ -3,7 +3,7 @@ from django.urls import reverse
 import uuid
 from datetime import date
 from django.contrib.auth.models import User
-
+#хз что это
 
 
 

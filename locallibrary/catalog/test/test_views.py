@@ -14,7 +14,7 @@ from django.contrib.auth.models import User
 from .forms import RenewBookForm
 from django.contrib.auth.models import Permission
 import uuid
-
+#хз что это
 
 class AuthorListViewTest(TestCase):
 
