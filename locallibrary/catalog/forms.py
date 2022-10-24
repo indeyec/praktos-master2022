@@ -2,7 +2,7 @@ from django.core.exceptions import ValidationError
 from django.utils.translation import gettext_lazy as _
 import datetime
 from django import forms
-#хз что это
+
 
 class RenewBookForm(forms.Form):
 

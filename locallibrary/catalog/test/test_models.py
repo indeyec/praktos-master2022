@@ -3,7 +3,6 @@ from catalog.models import Author
 
 
 class AuthorModelTest(TestCase):
-
     @classmethod
     def setUpTestData(cls):
         """Set up non-modified objects used by all test methods."""
